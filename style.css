@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: #000 url(20230515-Ilustrasi-Idul-Adha-2023.jpg);
+}
+
+.container{
+    position: absolute;
+    top: 80px;
+    left: 100px;
+    right: 100px;
+    bottom: 80px;
+}
